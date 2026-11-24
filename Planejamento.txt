@@ -1,0 +1,15 @@
+Capa: Título da monografia, nome do aluno, nome do orientador, instituição, curso e data da apresentação.
+
+Introdução: Apresentação do tema, contextualização, problema de pesquisa, objetivos (geral e específicos), justificativa.
+
+Revisão da Literatura: Síntese dos principais conceitos e estudos relevantes para o tema.
+
+Metodologia: Descrição dos métodos e técnicas utilizados na pesquisa.
+
+Resultados Parciais: Apresentação dos resultados obtidos, utilizando tabelas, gráficos e figuras, se necessário.
+
+Próximos passos:
+
+Referências: Lista completa das fontes utilizadas na pesquisa.
+
+Agradecimentos: Opcional, para expressar gratidão a pessoas que colaboraram com o trabalho. 

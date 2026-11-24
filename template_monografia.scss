@@ -1,0 +1,48 @@
+/*-- scss:defaults --*/
+// Fontes e cores principais
+$font-family-sans-serif: "Roboto", sans-serif;
+$presentation-heading-font: "Montserrat", sans-serif;
+
+$body-bg: #D6D6D6;           // cor de fundo dos slides
+$body-color: #333333;        // cor do texto principal
+$link-color: #870E1E;        // cor dos links
+$code-bg: #272822;           // fundo de blocos de código
+$code-color: #D6D6D6;        // texto de código
+$code-inline-bg: #870E1E;    // fundo de código em linha
+$code-inline-color: #D6D6D6; // cor do texto em código em linha
+
+/*-- scss:rules --*/
+// Estilo para títulos
+.reveal h1, .reveal h2, .reveal h3 {
+  color: #3E050D;
+  font-weight: bold;
+  
+  
+}
+
+// Estilo para código em linha
+.reveal code {
+  background-color: $code-inline-bg;
+  color: $code-inline-color;
+  padding: 2px 4px;
+  border-radius: 4px;
+  font-family: 'Fira Code', monospace;
+}
+
+// Estilo para bloco de código
+.reveal pre code {
+  background: $code-bg;
+  color: $code-color;
+  padding: 1em;
+  border-radius: 6px;
+  font-size: 0.9em;
+}
+
+// Destaques (ex: .fragment.highlight-current-blue)
+.reveal .fragment.highlight-current-blue {
+  color: #005f73;
+  font-weight: bold;
+  background-color: #e0fbfc;
+  padding: 0.3em;
+  border-radius: 5px;
+}

@@ -1,0 +1,92 @@
+---
+# title: "Monografia I"
+format: 
+  revealjs:
+    theme: [default, template.scss]
+    #include-after-body: clean_title_page.html
+    #logo: imagens/logo_rodape.png
+    #footer: "R-Ladies Vitória"
+    center-title-slide: true
+    transition: none
+    transition-speed: default
+    width: 1600
+    height: 900
+execute: 
+  include: true
+  eval: true
+  echo: true
+toc: false
+toc-title: Sumário
+---
+
+##  {.title background-color="#364261"} 
+
+<br> <br>
+
+::: info-direita
+Universidade Federal do Espírito Santo<br> Centro de Ciências Exatas<br> Departamento de Estatística
+:::
+
+<br> <br>
+
+::: titulo-minicurso
+Comparação de diferentes métodos de regressão para a estimação de razão de prevalências
+:::
+
+<br>
+
+::: subtitulo-minicurso
+Discente: Vitória Nascimento de Jesus Sesana
+:::
+
+::: subtitulo-minicurso
+Docente: Dra. Luciana Graziela Godoi
+:::
+
+<br> <br> <br>
+
+::: local-data
+Vitória - ES <br> 2026
+:::
+
+
+# Introdução {background-color="#364261"}
+
+## Utilização 
+
+<br>
+
+
+
+# Objetivos gerais e específicos {background-color="#364261"}
+
+# Metodologia {background-color="#364261"}
+
+# Dados {background-color="#364261"}
+
+# Ajustes iniciais {background-color="#364261"}
+
+
+
+# Estudo de simulação {background-color="#364261"}
+
+
+
+# Considerações finais {background-color="#364261"}
+
+
+
+# Próximos passos {background-color="#364261"}
+
+
+# Referências
+
+
+
+##  {.title background-color="#364261"} 
+
+<br> <br>
+
+::: titulo-minicurso
+Agradeço a atenção de todos!
+:::
